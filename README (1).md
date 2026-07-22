@@ -1,6 +1,6 @@
-**Name: Prakhar Bhardwaj**\
-**Reg No: 23MEI10051**\
-**Application no: IN26011412**
+**Name: Dhruv Kumar**\
+**Reg No: 23BCE10160**\
+**Application no: IN26011798**
 
 # AI-ML-Assignment-2
 # Telco Customer Churn Prediction
